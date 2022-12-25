@@ -1,0 +1,20 @@
+body{
+    background-color: red;
+    background-image:url(yarisaydam2.png) ;
+}
+.yarisaydam{
+
+    width: 127px;
+
+}
+.lithium{
+    color: black;
+    font-size:xx-large ;
+}
+.litdiv{
+    width: 600px;
+    padding: 20px;
+    position: relative;
+    margin: auto;
+
+}
