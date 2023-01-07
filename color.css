@@ -7,10 +7,21 @@ body{
     width: 127px;
 
 }
+#lit{
+    color: black;
+    font-size:xxx-large;
+    text-align:center;
+    width: 600px;
+    padding: 20px;
+}
 .lithium{
     color: black;
     font-size:xx-large ;
+    text-align:center;
+    width: 600px;
+    padding: 20px;
 }
+
 .litdiv{
     width: 600px;
     padding: 20px;
