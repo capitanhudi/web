@@ -2,29 +2,25 @@ body{
     background-color: red;
     background-image:url(yarisaydam2.png) ;
 }
-.yarisaydam{
 
-    width: 127px;
-
-}
 #lit{
     color: black;
     font-size:xxx-large;
     text-align:center;
     width: 600px;
-    padding: 20px;
+    padding: 50px;
 }
 .lithium{
     color: black;
     font-size:xx-large ;
     text-align:center;
     width: 600px;
-    padding: 20px;
+    padding: 50px;
 }
 
 .litdiv{
     width: 600px;
-    padding: 20px;
+    padding: 50px;
     position: relative;
     margin: auto;
 
